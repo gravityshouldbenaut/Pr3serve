@@ -14,6 +14,26 @@
 		182A01A71A3FBEBF0021763F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 182A01A61A3FBEBF0021763F /* Images.xcassets */; };
 		182A01AA1A3FBEBF0021763F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 182A01A81A3FBEBF0021763F /* LaunchScreen.xib */; };
 		182A01B61A3FBEC00021763F /* Pr3serveTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182A01B51A3FBEC00021763F /* Pr3serveTests.swift */; };
+		182A01C01A3FFE120021763F /* tierradelfuego.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 182A01BF1A3FFE110021763F /* tierradelfuego.jpg */; };
+		182A01C51A4001380021763F /* GoogleMaps.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 182A01C41A4001380021763F /* GoogleMaps.framework */; };
+		182A01C71A4002410021763F /* GoogleMaps.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 182A01C61A4002410021763F /* GoogleMaps.bundle */; };
+		182A01CE1A4002D30021763F /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 182A01C81A4002D30021763F /* AVFoundation.framework */; };
+		182A01CF1A4002D30021763F /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 182A01C91A4002D30021763F /* CoreData.framework */; };
+		182A01D01A4002D30021763F /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 182A01CA1A4002D30021763F /* CoreLocation.framework */; };
+		182A01D11A4002D30021763F /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 182A01CB1A4002D30021763F /* CoreText.framework */; };
+		182A01D21A4002D30021763F /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 182A01CC1A4002D30021763F /* GLKit.framework */; };
+		182A01D31A4002D30021763F /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 182A01CD1A4002D30021763F /* ImageIO.framework */; };
+		182A01D51A4002E90021763F /* libc++.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 182A01D41A4002E90021763F /* libc++.dylib */; };
+		182A01D71A4003100021763F /* libicucore.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 182A01D61A4003100021763F /* libicucore.dylib */; };
+		182A01D91A4003190021763F /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 182A01D81A4003190021763F /* libz.dylib */; };
+		182A01DB1A4003230021763F /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 182A01DA1A4003230021763F /* OpenGLES.framework */; };
+		182A01DD1A40032B0021763F /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 182A01DC1A40032B0021763F /* QuartzCore.framework */; };
+		182A01DF1A4003340021763F /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 182A01DE1A4003340021763F /* SystemConfiguration.framework */; };
+		185E4D5F1A43421D00113C8F /* iguazu-falls.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 185E4D5E1A43421D00113C8F /* iguazu-falls.jpg */; };
+		1875C4871A42AAB7001329C2 /* Amazon-Rainforest-008.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1875C4861A42AAB7001329C2 /* Amazon-Rainforest-008.jpg */; };
+		1875C4891A42ACB2001329C2 /* Pantanal-floods.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1875C4881A42ACB2001329C2 /* Pantanal-floods.jpg */; };
+		1875C48B1A42B827001329C2 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1875C48A1A42B827001329C2 /* ThirdViewController.swift */; };
+		18E3B7CA1A4291650084B2C3 /* launcher.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 18E3B7C91A4291650084B2C3 /* launcher.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +58,27 @@
 		182A01AF1A3FBEBF0021763F /* Pr3serveTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Pr3serveTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		182A01B41A3FBEBF0021763F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		182A01B51A3FBEC00021763F /* Pr3serveTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pr3serveTests.swift; sourceTree = "<group>"; };
+		182A01BF1A3FFE110021763F /* tierradelfuego.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tierradelfuego.jpg; path = ../../Downloads/tierradelfuego.jpg; sourceTree = "<group>"; };
+		182A01C41A4001380021763F /* GoogleMaps.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMaps.framework; sourceTree = "<group>"; };
+		182A01C61A4002410021763F /* GoogleMaps.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = GoogleMaps.bundle; path = GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle; sourceTree = "<group>"; };
+		182A01C81A4002D30021763F /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		182A01C91A4002D30021763F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		182A01CA1A4002D30021763F /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		182A01CB1A4002D30021763F /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		182A01CC1A4002D30021763F /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
+		182A01CD1A4002D30021763F /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
+		182A01D41A4002E90021763F /* libc++.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libc++.dylib"; path = "usr/lib/libc++.dylib"; sourceTree = SDKROOT; };
+		182A01D61A4003100021763F /* libicucore.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicucore.dylib; path = usr/lib/libicucore.dylib; sourceTree = SDKROOT; };
+		182A01D81A4003190021763F /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		182A01DA1A4003230021763F /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		182A01DC1A40032B0021763F /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		182A01DE1A4003340021763F /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		182A01E01A4004F10021763F /* Pr3serve-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Pr3serve-Bridging-Header.h"; sourceTree = "<group>"; };
+		185E4D5E1A43421D00113C8F /* iguazu-falls.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iguazu-falls.jpg"; sourceTree = "<group>"; };
+		1875C4861A42AAB7001329C2 /* Amazon-Rainforest-008.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Amazon-Rainforest-008.jpg"; sourceTree = "<group>"; };
+		1875C4881A42ACB2001329C2 /* Pantanal-floods.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pantanal-floods.jpg"; sourceTree = "<group>"; };
+		1875C48A1A42B827001329C2 /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ThirdViewController.swift; path = ../ThirdViewController.swift; sourceTree = "<group>"; };
+		18E3B7C91A4291650084B2C3 /* launcher.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = launcher.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +86,19 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				182A01DF1A4003340021763F /* SystemConfiguration.framework in Frameworks */,
+				182A01DD1A40032B0021763F /* QuartzCore.framework in Frameworks */,
+				182A01DB1A4003230021763F /* OpenGLES.framework in Frameworks */,
+				182A01D91A4003190021763F /* libz.dylib in Frameworks */,
+				182A01D71A4003100021763F /* libicucore.dylib in Frameworks */,
+				182A01D51A4002E90021763F /* libc++.dylib in Frameworks */,
+				182A01CE1A4002D30021763F /* AVFoundation.framework in Frameworks */,
+				182A01CF1A4002D30021763F /* CoreData.framework in Frameworks */,
+				182A01D01A4002D30021763F /* CoreLocation.framework in Frameworks */,
+				182A01D11A4002D30021763F /* CoreText.framework in Frameworks */,
+				182A01D21A4002D30021763F /* GLKit.framework in Frameworks */,
+				182A01D31A4002D30021763F /* ImageIO.framework in Frameworks */,
+				182A01C51A4001380021763F /* GoogleMaps.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +115,18 @@
 		182A018F1A3FBEBE0021763F = {
 			isa = PBXGroup;
 			children = (
+				182A01DE1A4003340021763F /* SystemConfiguration.framework */,
+				182A01DC1A40032B0021763F /* QuartzCore.framework */,
+				182A01DA1A4003230021763F /* OpenGLES.framework */,
+				182A01D81A4003190021763F /* libz.dylib */,
+				182A01D61A4003100021763F /* libicucore.dylib */,
+				182A01D41A4002E90021763F /* libc++.dylib */,
+				182A01C81A4002D30021763F /* AVFoundation.framework */,
+				182A01C91A4002D30021763F /* CoreData.framework */,
+				182A01CA1A4002D30021763F /* CoreLocation.framework */,
+				182A01CB1A4002D30021763F /* CoreText.framework */,
+				182A01CC1A4002D30021763F /* GLKit.framework */,
+				182A01CD1A4002D30021763F /* ImageIO.framework */,
 				182A019A1A3FBEBF0021763F /* Pr3serve */,
 				182A01B21A3FBEBF0021763F /* Pr3serveTests */,
 				182A01991A3FBEBF0021763F /* Products */,
@@ -79,13 +145,18 @@
 		182A019A1A3FBEBF0021763F /* Pr3serve */ = {
 			isa = PBXGroup;
 			children = (
+				182A01C61A4002410021763F /* GoogleMaps.bundle */,
+				182A01C41A4001380021763F /* GoogleMaps.framework */,
+				182A01C11A3FFE540021763F /* Picturas */,
 				182A019D1A3FBEBF0021763F /* AppDelegate.swift */,
 				182A019F1A3FBEBF0021763F /* FirstViewController.swift */,
 				182A01A11A3FBEBF0021763F /* SecondViewController.swift */,
+				1875C48A1A42B827001329C2 /* ThirdViewController.swift */,
 				182A01A31A3FBEBF0021763F /* Main.storyboard */,
 				182A01A61A3FBEBF0021763F /* Images.xcassets */,
 				182A01A81A3FBEBF0021763F /* LaunchScreen.xib */,
 				182A019B1A3FBEBF0021763F /* Supporting Files */,
+				182A01E01A4004F10021763F /* Pr3serve-Bridging-Header.h */,
 			);
 			path = Pr3serve;
 			sourceTree = "<group>";
@@ -113,6 +184,18 @@
 				182A01B41A3FBEBF0021763F /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		182A01C11A3FFE540021763F /* Picturas */ = {
+			isa = PBXGroup;
+			children = (
+				185E4D5E1A43421D00113C8F /* iguazu-falls.jpg */,
+				1875C4881A42ACB2001329C2 /* Pantanal-floods.jpg */,
+				1875C4861A42AAB7001329C2 /* Amazon-Rainforest-008.jpg */,
+				18E3B7C91A4291650084B2C3 /* launcher.JPG */,
+				182A01BF1A3FFE110021763F /* tierradelfuego.jpg */,
+			);
+			name = Picturas;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,6 +247,7 @@
 				TargetAttributes = {
 					182A01971A3FBEBE0021763F = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = LXWCURGG38;
 					};
 					182A01AE1A3FBEBF0021763F = {
 						CreatedOnToolsVersion = 6.1;
@@ -195,9 +279,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				185E4D5F1A43421D00113C8F /* iguazu-falls.jpg in Resources */,
+				18E3B7CA1A4291650084B2C3 /* launcher.JPG in Resources */,
 				182A01A51A3FBEBF0021763F /* Main.storyboard in Resources */,
+				182A01C01A3FFE120021763F /* tierradelfuego.jpg in Resources */,
 				182A01AA1A3FBEBF0021763F /* LaunchScreen.xib in Resources */,
 				182A01A71A3FBEBF0021763F /* Images.xcassets in Resources */,
+				1875C4891A42ACB2001329C2 /* Pantanal-floods.jpg in Resources */,
+				1875C4871A42AAB7001329C2 /* Amazon-Rainforest-008.jpg in Resources */,
+				182A01C71A4002410021763F /* GoogleMaps.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,6 +307,7 @@
 			files = (
 				182A01A21A3FBEBF0021763F /* SecondViewController.swift in Sources */,
 				182A019E1A3FBEBF0021763F /* AppDelegate.swift in Sources */,
+				1875C48B1A42B827001329C2 /* ThirdViewController.swift in Sources */,
 				182A01A01A3FBEBF0021763F /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -342,9 +433,21 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Pr3serve",
+				);
 				INFOPLIST_FILE = Pr3serve/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
+				"OTHER_LDFLAGS[arch=*]" = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Pr3serve/Pr3serve-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -352,9 +455,19 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Pr3serve",
+				);
 				INFOPLIST_FILE = Pr3serve/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Pr3serve/Pr3serve-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -411,6 +524,7 @@
 				182A01BB1A3FBEC00021763F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		182A01BC1A3FBEC00021763F /* Build configuration list for PBXNativeTarget "Pr3serveTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +533,7 @@
 				182A01BE1A3FBEC00021763F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
